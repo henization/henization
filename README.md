@@ -1,6 +1,6 @@
- 👋 Hi, I’m @henization
- 👀 I’m interested in Frontend
- 🌱 I’m currently learning Reactjs, TypeScript and Nextjs
+- 👋 Hi, I’m @henization
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning Reactjs, TypeScript and Nextjs
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  -->
