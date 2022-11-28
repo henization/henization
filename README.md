@@ -5,7 +5,7 @@
  <strong>⭐ I am a junior developer who enjoys challenges</strong>
 </br>
 </br>
- <strong> 👩🏾‍🤝‍👩🏻 SOPT 29th, 30th WEB(2021.9 ~)</strong>
+ <strong> 👩🏾‍🤝‍👩🏻 SOPT 29th, 30th, 31st WEB(2021.9 ~)</strong>
  </br>
  </br>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
